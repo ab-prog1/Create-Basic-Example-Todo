@@ -1,5 +1,5 @@
 import {BrowserRouter, Routes, Route} from "react-router-dom"
-import Header from "./cdomponents/Header";
+import Header from "./components/Header";
 import Home from "./pages/Home";
 import TodoProvider from "./contex/TodoProvider";
 import Todos from "./pages/Todos";
